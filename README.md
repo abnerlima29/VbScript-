@@ -1,2 +1,2 @@
-# Repositório teste curso Dio Git/GitHub
-teste
+# Repositório de arquivos VBScript 
+exercícios da faculdade 
